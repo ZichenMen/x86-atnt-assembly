@@ -1,4 +1,4 @@
-# assembly-practice
+# x86-at&t-assembly
 The programs in this repository serve as exercises for understanding how to interact directly with the CPU and the operating system at the machine level. Each program is a standalone example showcasing different aspects of assembly language programming, such as input/output operations, control flow, and basic subroutine calls.
 
 # Usage
